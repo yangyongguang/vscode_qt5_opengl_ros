@@ -1,0 +1,12 @@
+-I/home/yyg/code/lidarTrackingByCMake/src/widgets
+-I/home/yyg/Qt5.6.3/5.6.3/gcc_64/include
+-I/home/yyg/Qt5.6.3/5.6.3/gcc_64/include/QtWidgets
+-I/home/yyg/Qt5.6.3/5.6.3/gcc_64/include/QtGui
+-I/home/yyg/Qt5.6.3/5.6.3/gcc_64/include/QtCore
+-I/home/yyg/Qt5.6.3/5.6.3/gcc_64/./mkspecs/linux-g++
+-I/usr/include
+-I/home/yyg/code/lidarTrackingByCMake/src
+-I/home/yyg/code/lidarTrackingByCMake/src/build
+-o
+/home/yyg/code/lidarTrackingByCMake/src/build/moc_widget.cpp
+/home/yyg/code/lidarTrackingByCMake/src/widget.h

@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+1d0832f67f3ef3b4d21ef7877f21c41f CMakeFiles/QTest_autogen
+017915e8f21df05dd82c133e1541bffa CMakeFiles/qt_widgets_autogen
+a66f8632a0885b67f91852f7d93e449e moc_widget.cpp
+cb024b74d6a1ef7cb0bc995e21712f9e ui_widget.h
